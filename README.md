@@ -1,6 +1,6 @@
 Challenge API Provincias
 
-Esta API contiene 2 endpoints, uno para loguear y otro para consultar el id, nombre, latitud y longitud de una provincia por medio del nombre.
+Esta API contiene 2 endpoints, uno para realizar un login y otro para consultar el id, nombre, latitud y longitud de una provincia por medio del nombre.
 
 Login: http://localhost:8080/login
 
@@ -21,7 +21,7 @@ Ejemplo de url: http://localhost:8080/api/provincia/Santiago%20del%20Estero
 Si usan postman, uso de basic auth con user y password ya proporcionados anteriormente.
 Aplico Test para esta clase con JUnit y SpringRunner.
 
-Para el uso de Swagger use SpringFox con una configuracion y un @Bean Docket
+Para implementar Swagger use SpringFox con una configuracion y un @Bean Docket
 Url swagger: http://localhost:8080/swagger-ui.html#/
 
 Se pueden probar todas las provincias correspondientes a la api.
