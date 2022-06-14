@@ -3,6 +3,7 @@ Challenge API Provincias
 Esta API contiene 2 endpoints, uno para loguear y otro para consultar el id, nombre, latitud y longitud de una provincia por medio del nombre.
 
 Login: http://localhost:8080/login
+
 username: Ariel
 password: ApiChallenge
 
