@@ -5,6 +5,7 @@ Esta API contiene 2 endpoints, uno para loguear y otro para consultar el id, nom
 Login: http://localhost:8080/login
 
 username: Ariel
+
 password: ApiChallenge
 
 Para el Login use spring-security-core y spring-boot-starter-security. Con el usuario y contraseña en el application.properties.
